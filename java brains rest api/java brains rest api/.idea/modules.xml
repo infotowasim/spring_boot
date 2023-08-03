@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/java brains rest api.iml" filepath="$PROJECT_DIR$/.idea/java brains rest api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-brains-rest-api/java-brains-rest-api.iml" filepath="$PROJECT_DIR$/java-brains-rest-api/java-brains-rest-api.iml" />
+    </modules>
+  </component>
+</project>
